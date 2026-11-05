@@ -1,6 +1,6 @@
 # Physical vs Chemical Change · AP Chem 4.1 Part 1
 
-**Post at:** not scheduled yet (automation is paused while testing). Suggested slot: 5:00 PM Central.
+**Posted:** Nov 4, 2026 (first hour: skip rate 37.4%).
 **Where:** TikTok (from the phone app) and Instagram Reels. YouTube Shorts is on hold.
 
 **Video:** ATOMA_4.1_Part1_no_music.mp4 (for a trending sound) · ATOMA_4.1_Part1.mp4 (built-in music, backup)

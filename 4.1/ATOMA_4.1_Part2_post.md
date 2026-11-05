@@ -11,7 +11,11 @@
 The 4 Clues of a Chemical Change · AP Chem 4.1 Part 2
 
 **Caption:**
-You can't see molecules. So how do you know something new formed? Four clues. AP Chem Unit 4 (Chemical Reactions) · 4.1 Part 2 of 3 #apchem #apchemistry #chemistry #studytok #apexam #chemicalchange #precipitate
+You can't see molecules. So how do you know something new formed? Four clues.
+Save this for the test.
+Which clue fools people the most? 👇
+Send this to your lab partner.
+AP Chem Unit 4 (Chemical Reactions) · 4.1 Part 2 of 3 #apchem #apchemistry #chemistry #studytok #apexam #chemicalchange #precipitate
 
 **Tags / keywords (for YouTube later, or TikTok search):**
 AP Chemistry, AP Chem 4.1, evidence of a chemical change, signs of a chemical reaction, precipitate, gas formation, color change, heat or light, AP Chem Unit 4, AP exam review, Mira, ATOMA
