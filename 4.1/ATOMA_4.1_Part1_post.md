@@ -5,7 +5,7 @@
 
 **Video:** ATOMA_4.1_Part1_no_music.mp4 (for a trending sound) · ATOMA_4.1_Part1.mp4 (built-in music, backup)
 **Thumbnail / cover:** ATOMA_4.1_Part1_thumb.jpg
-**Length:** 27 s · Style: fast format, Ultraviolet colors, Hologram drawings, free camera
+**Length:** 30 s · Style: fast format, Ultraviolet colors, Hologram drawings, free camera
 
 **Title (TikTok title / Reel cover text):**
 Physical vs Chemical Change · AP Chem 4.1 Part 1
