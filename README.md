@@ -7,7 +7,7 @@ Every video has its files side by side: `<name>.mp4`, `<name>_no_music.mp4` (for
 `<name>_thumb.jpg` and `<name>_post.md` (title, caption, tags, posting time and where to post).
 
 ## Current videos (new format since Nov 4, 2026: fast style, Ultraviolet / Hologram for Chem)
-- `4.1/` AP Chem 4.1 Part 1: Physical vs Chemical Change (30 s, new Mira voice)
+- `4.1/` AP Chem 4.1 Part 1: Physical vs Chemical Change (30 s) and Part 2: The 4 Clues (27 s), new Mira voice
 
 ## Brand
 `brand/` holds the logo kit in the new themes: Chem (Ultraviolet, magenta node) and Bio (Midnight Lab, lime node):
