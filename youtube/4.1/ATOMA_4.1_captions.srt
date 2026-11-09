@@ -1,0 +1,239 @@
+1
+00:00:00,150 --> 00:00:01,840
+So melting ice
+
+2
+00:00:01,670 --> 00:00:03,680
+is a chemical change, right?
+
+3
+00:00:03,706 --> 00:00:07,589
+Nope. And questions like that cost people easy points.
+
+4
+00:00:07,417 --> 00:00:11,428
+This is four point one. Physical versus chemical change.
+
+5
+00:00:11,349 --> 00:00:14,531
+By the end, you'll call it in about two seconds.
+
+6
+00:00:14,361 --> 00:00:17,811
+I'm Mira. And it all starts with one question.
+
+7
+00:00:17,924 --> 00:00:19,878
+Did a new substance form?
+
+8
+00:00:19,668 --> 00:00:23,742
+If no, it's a physical change. If yes, chemical.
+
+9
+00:00:23,532 --> 00:00:29,715
+So, ice. Zoom all the way in and it's H two O molecules, locked in a grid.
+
+10
+00:00:29,505 --> 00:00:34,950
+Warm it up, and the grid falls apart. The molecules start sliding past each other.
+
+11
+00:00:34,780 --> 00:00:37,865
+But every single one is still H two O.
+
+12
+00:00:37,695 --> 00:00:40,586
+Same stuff, different arrangement. Physical.
+
+13
+00:00:40,376 --> 00:00:45,643
+Boiling's the same deal. Liquid water to water vapor. Still H two O.
+
+14
+00:00:45,473 --> 00:00:49,053
+So any phase change? Physical. Every time.
+
+15
+00:00:48,883 --> 00:00:51,308
+Mixing and separating count too.
+
+16
+00:00:51,138 --> 00:00:55,575
+Stir iron filings into sand, then pull them back out with a magnet.
+
+17
+00:00:55,397 --> 00:00:59,487
+The iron didn't become anything. It just went on a little trip.
+
+18
+00:00:59,472 --> 00:01:03,770
+Now a gas stove. That blue flame is methane burning.
+
+19
+00:01:03,560 --> 00:01:07,606
+Methane plus oxygen gives you carbon dioxide and water.
+
+20
+00:01:07,396 --> 00:01:13,384
+Look at the molecules. Before, methane and oxygen. After, totally different ones.
+
+21
+00:01:13,188 --> 00:01:17,851
+The bonds broke, and the atoms rearranged into new substances.
+
+22
+00:01:17,641 --> 00:01:22,321
+Same atoms, new substances. That's a chemical change.
+
+23
+00:01:22,252 --> 00:01:26,838
+Quick check. Iron filings and sand, separated with a magnet.
+
+24
+00:01:26,668 --> 00:01:29,775
+Physical or chemical? Pause it and try.
+
+25
+00:01:32,775 --> 00:01:38,885
+Physical. Nothing new formed. Iron's still iron, sand's still sand.
+
+26
+00:01:39,003 --> 00:01:42,853
+Problem is, you can't see molecules in a lab.
+
+27
+00:01:42,763 --> 00:01:46,410
+So you look for evidence. There are four clues.
+
+28
+00:01:46,200 --> 00:01:49,880
+One. Heat or light. Like a candle burning.
+
+29
+00:01:49,851 --> 00:01:55,391
+Two. A gas forms. Baking soda and vinegar fizz out carbon dioxide.
+
+30
+00:01:55,317 --> 00:01:59,697
+Three. A precipitate. That's a solid showing up out of two liquids.
+
+31
+00:01:59,527 --> 00:02:05,709
+Mix lead nitrate and potassium iodide, both clear, and you get a bright yellow solid.
+
+32
+00:02:05,499 --> 00:02:11,302
+Four. A color change. Like gray iron slowly turning into reddish-brown rust.
+
+33
+00:02:11,092 --> 00:02:14,062
+Those four are the ones the exam uses.
+
+34
+00:02:14,182 --> 00:02:19,075
+Quick check. Two clear liquids, and a cloudy white solid shows up.
+
+35
+00:02:18,945 --> 00:02:21,980
+Which clue is that? Pause.
+
+36
+00:02:24,980 --> 00:02:27,289
+A precipitate. Clue three.
+
+37
+00:02:27,482 --> 00:02:31,231
+Now, the catch. The clues can lie.
+
+38
+00:02:31,061 --> 00:02:35,557
+Boiling water makes bubbles. That's a gas. Clue two, right?
+
+39
+00:02:35,440 --> 00:02:39,401
+Nope. Those bubbles are just water vapor. Physical.
+
+40
+00:02:39,191 --> 00:02:42,763
+Mix blue dye and yellow dye, and you get green.
+
+41
+00:02:42,619 --> 00:02:46,534
+Color change. But nothing reacted. It's just a mixture.
+
+42
+00:02:46,324 --> 00:02:53,154
+And an old-school light bulb gives off heat and light. The filament's still, um... just tungsten.
+
+43
+00:02:53,064 --> 00:02:56,131
+So clues are evidence, not proof.
+
+44
+00:02:55,921 --> 00:03:00,540
+When you're not sure, go back to the question. Did a new substance form?
+
+45
+00:03:00,370 --> 00:03:03,591
+A candle does both, which is kind of rude.
+
+46
+00:03:03,421 --> 00:03:06,923
+Wax melting down the side? Still wax. Physical.
+
+47
+00:03:06,699 --> 00:03:12,201
+Wax burning in the flame turns into carbon dioxide and water. Chemical.
+
+48
+00:03:11,687 --> 00:03:15,661
+Last one. You snap a glow stick, and it starts glowing.
+
+49
+00:03:15,731 --> 00:03:18,228
+Physical or chemical? Pause.
+
+50
+00:03:21,088 --> 00:03:28,618
+Chemical. The stuff inside reacts and makes new substances. The light comes from that reaction.
+
+51
+00:03:28,640 --> 00:03:32,192
+On the exam, they love particle diagrams.
+
+52
+00:03:32,022 --> 00:03:34,825
+Two boxes. Before and after.
+
+53
+00:03:34,615 --> 00:03:39,817
+If the after box has the same molecules, just spaced out differently, physical.
+
+54
+00:03:39,593 --> 00:03:43,214
+If it has molecules that weren't there before, chemical.
+
+55
+00:03:43,084 --> 00:03:47,615
+Like this. Hydrogen and oxygen before, water after.
+
+56
+00:03:47,445 --> 00:03:51,433
+Same atoms on both sides, but a new molecule. Chemical.
+
+57
+00:03:51,250 --> 00:03:57,100
+So on a diagram, skip the clues and just read the particles. You've got this.
+
+58
+00:03:57,043 --> 00:04:02,139
+So basically. New substance? Chemical. Same substance? Physical.
+
+59
+00:04:01,938 --> 00:04:08,668
+And heat, light, gas, a precipitate or a color change are clues. Not proof.
+
+60
+00:04:08,868 --> 00:04:15,824
+Next one's four point two, net ionic equations. Half the ions just sit there.
