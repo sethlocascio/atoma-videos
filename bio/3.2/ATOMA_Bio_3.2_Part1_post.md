@@ -1,6 +1,6 @@
 # Too Hot · AP Bio 3.2 Part 1 (Nov 13, 2026; first v2-style episode)
 
-**Post at:** Fri Nov 13, 2026, as soon as possible this evening (by about 7:00 PM Central / 5:00 PM Pacific). Post by hand.
+**Post at:** Fri Nov 13, 2026, 7:00 PM Central (5:00 PM Pacific). Post by hand. YT Shorts copy stays on its planned date (Thu Nov 19).
 **Where:** ATOMA Bio TikTok (phone app), Instagram Reels and YouTube Shorts (@studyatoma).
 
 **Video:** ATOMA_Bio_3.2_Part1_no_music.mp4 (voice + sound effects only)
