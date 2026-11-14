@@ -4,7 +4,7 @@
 **Where:** ATOMA Bio TikTok (phone app), Instagram Reels and YouTube Shorts (@studyatoma).
 
 **Video:** ATOMA_Bio_3.2_Part1_no_music.mp4 (voice + sound effects only)
-**Thumbnail / cover:** ATOMA_Bio_3.2_Part1_thumb.jpg
+**Thumbnail / cover:** ATOMA_Bio_3.2_Part1_thumb.jpg ("AP BIO 3.2.1 · TOO HOT TO WORK"). It is also the first frame of the video, so TikTok uses it as the cover by default.
 **Length:** 63.3 s · v2 style: human-sounding script, flow camera (each picture grows out of the last), hard cut at the end, "More AP Bio on profile" corner tag. Fails the old pacing check on purpose.
 
 **Trending sound:** add a trending *instrumental* in the TikTok app at about 5–10% volume so Mira stays clear. On YouTube, add a track from the YouTube Audio Library or leave it as is. Never put copyrighted music into the video file.
